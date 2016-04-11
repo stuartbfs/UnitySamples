@@ -13,3 +13,6 @@ Simple sample of a 2D ball bouncing in Unity. Steps taken (no code required):
 8. Create a new empty object under the Hierarchy and name it Ground.  Add a Sprite Renderer component to the object and assign it the ground sprite.  
 9. Add a Box Collider 2D component to the Ground object.  
 10. Ensure that the Ball object is positioned above the Ground object.  Start the scene and the ball object should drop and bounce off the ground.  
+
+## SimpleClock
+Tutorial exercise taken from https://unity3d.com/learn/tutorials/modules/beginner/scripting/simple-clock
